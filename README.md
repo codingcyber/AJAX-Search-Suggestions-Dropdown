@@ -16,3 +16,8 @@ if(!$selectdb){
 	die("Database Selection Failed" . mysqli_error($connection));
 }
 ```
+
+# For Complete text Article and Video Tutorials checkout these links
+<a href="https://codingcyber.org/ajax-search-suggestions-dropdown-php-7761/">Create Ajax Search Suggestions Dropdown in PHP & JavaScript</a>
+
+<a href="https://www.udemy.com/learn-ajax-with-php-multiple-projects/?couponCode=GITHUB">Learn AJAX with PHP : 3 Awesome Projects - Basic to Advanced Course on Udemy</a>
